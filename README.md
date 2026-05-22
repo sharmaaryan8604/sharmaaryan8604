@@ -99,7 +99,7 @@ Machine Learning, Sports Analytics, Explainable AI, Data Visualization
 
 ## 📈 Coding Profile
 
-Solved **450+ DSA problems**
+Solved **350+ DSA problems**
 
 LeetCode:
 https://leetcode.com/u/Aryans8604/
@@ -113,6 +113,6 @@ Led Delhi State Volleyball Team
 
 ## NPTEL Certified in Object-Oriented Programming (OOP)
 ## NPTEL Certified in Ethical Hacking
-## Solved 400+ Data Structures & Algorithms problems across coding platforms
+## Solved 450+ Data Structures & Algorithms problems across coding platforms
 ## Built and deployed multiple Machine Learning and AI-based applications
 
