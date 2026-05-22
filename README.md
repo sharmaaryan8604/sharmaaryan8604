@@ -99,7 +99,7 @@ Machine Learning, Sports Analytics, Explainable AI, Data Visualization
 
 ## 📈 Coding Profile
 
-Solved **300+ DSA problems**
+Solved **450+ DSA problems**
 
 LeetCode:
 https://leetcode.com/u/Aryans8604/
