@@ -108,4 +108,11 @@ https://leetcode.com/u/Aryans8604/
 
 ## 🏆 Achievements
 
-Led Delhi State Volleyball Team  
+Led Delhi State Volleyball Team
+## 🏆 Achievements & Certifications
+
+## NPTEL Certified in Object-Oriented Programming (OOP)
+## NPTEL Certified in Ethical Hacking
+## Solved 400+ Data Structures & Algorithms problems across coding platforms
+## Built and deployed multiple Machine Learning and AI-based applications
+
