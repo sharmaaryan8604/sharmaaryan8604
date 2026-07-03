@@ -1,118 +1,169 @@
 # Hi, I'm Aryan Sharma 👋
 
-🎓 B.Tech ECE (Artificial Intelligence and Machine Learning) — NSUT  
-💻 Machine Learning + Full-Stack Developer  
-📊 Focus: Applied ML Systems + Prediction Pipelines + Deployment  
+🎓 B.Tech in Electronics & Communication Engineering (Artificial Intelligence & Machine Learning) — NSUT  
+💻 Software Developer | Full-Stack Developer | Machine Learning Enthusiast  
+🚀 Passionate about building AI-powered applications, scalable web platforms, and solving real-world problems through technology.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-## 🏏 Explainable IPL Win Probability Engine
+## 📚 StudyAI Hub (Featured)
 
-Built an AI-powered cricket analytics platform that predicts IPL match win probability using Machine Learning, XGBoost, SHAP explainability, and interactive visualizations.
+An AI-powered study platform that helps students upload study material, generate AI summaries, create quizzes, and manage notes efficiently.
 
-### Key Features
+### Features
 
-* Real-time win probability prediction
-* Ball-by-ball match replay
-* Momentum shift analysis
-* Explainable AI using SHAP
-* Interactive Plotly visualizations
-* IPL-themed analytics dashboard
+- 🔐 JWT Authentication
+- 📄 PDF Upload & Automatic Text Extraction
+- 📝 Notes Management (CRUD)
+- 🧠 AI-Powered Summary Generation using Google Gemini
+- 🎯 AI Quiz Generator with Difficulty Levels
+- 📚 Search & Categorize Notes
+- 📱 Responsive UI
+- ☁️ Deployed on Vercel & Render
 
 ### Tech Stack
 
-`Python` `XGBoost` `Streamlit` `SHAP` `Plotly` `Scikit-learn`
+`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Google Gemini AI` `JWT` `Multer`
 
-### Highlights
+🔗 Live Demo: https://study-ai-hub-psi.vercel.app/
 
-* Trained on historical IPL ball-by-ball data
-* Built animated replay engine with momentum tracking
-* Added explainable AI insights for prediction transparency
-* Designed broadcast-style cricket analytics interface
+🔗 GitHub: https://github.com/sharmaaryan8604/studyAIHub
+
+---
+
+## 🏏 Explainable IPL Win Probability Engine
+
+AI-powered cricket analytics platform predicting IPL match win probability using Machine Learning and Explainable AI.
+
+### Features
+
+- Real-time Win Probability Prediction
+- Ball-by-Ball Match Replay
+- Momentum Shift Analysis
+- SHAP Explainability
+- Interactive Plotly Dashboard
+
+### Tech Stack
+
+`Python` `XGBoost` `SHAP` `Streamlit` `Plotly` `Scikit-learn`
 
 🔗 Live Demo: https://cricket-ai-analytics.streamlit.app/
-🔗 GitHub Repo: https://github.com/sharmaaryan8604/cricket-ai-analytics
 
-### 🏐 Volleyball Attack Prediction System
-Hybrid ML + Markov-chain spatial prediction system
-
-• 25-class landing zone prediction  
-• XGBoost + LightGBM ensemble  
-• Monte-Carlo simulator  
-• React + FastAPI deployment  
-
-Repo:
-https://github.com/sharmaaryan8604/volleyball_AI
+🔗 GitHub: https://github.com/sharmaaryan8604/cricket-ai-analytics
 
 ---
 
-### 📦 Quick Commerce Delivery Time Predictor
+## 🏐 Volleyball Attack Prediction System
 
-Production ML pipeline predicting delivery time across 11 cities
+Hybrid AI system for predicting volleyball attack landing zones using spatial machine learning and probabilistic modeling.
 
-• Ensemble regression models  
-• Feature engineering pipeline  
-• FastAPI backend  
-• React frontend  
- 
+### Features
 
-Repo:
-https://github.com/sharmaaryan8604/quick_commerce_delivery_time_prediction
+- 25-Class Landing Zone Prediction
+- XGBoost + LightGBM Ensemble
+- Markov Chain Prediction
+- Monte Carlo Simulation
+- FastAPI Backend
+- React Frontend
 
----
+### Tech Stack
 
-## 🧠 Skills
-## ⚡ Tech Stack
+`Python` `XGBoost` `LightGBM` `FastAPI` `React`
 
-### Languages
-
-C++, Python, JavaScript
-
-### Machine Learning & AI
-
-XGBoost, LightGBM, Scikit-learn, SHAP, Pandas, NumPy
-
-### Frontend
-
-React, Streamlit, HTML, CSS
-
-### Backend
-
-FastAPI, REST APIs
-
-### Visualization
-
-Plotly, Matplotlib
-
-### Deployment & Tools
-
-Git, GitHub, Render, Vercel, Streamlit Cloud
-
-### Domains
-
-Machine Learning, Sports Analytics, Explainable AI, Data Visualization
-
+🔗 GitHub: https://github.com/sharmaaryan8604/volleyball_AI
 
 ---
 
-## 📈 Coding Profile
+## 📦 Quick Commerce Delivery Time Predictor
 
-Solved **350+ DSA problems**
+Machine Learning pipeline for predicting delivery time across multiple cities.
 
-LeetCode:
+### Features
+
+- Delivery Time Prediction
+- Feature Engineering
+- Ensemble Regression Models
+- Interactive Dashboard
+
+### Tech Stack
+
+`Python` `Scikit-learn` `React` `FastAPI`
+
+🔗 GitHub: https://github.com/sharmaaryan8604/quick_commerce_delivery_time_prediction
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+- C++
+- Python
+- JavaScript
+- SQL
+
+## Frontend
+
+- React
+- Tailwind CSS
+- HTML5
+- CSS3
+
+## Backend
+
+- Node.js
+- Express.js
+- FastAPI
+- REST APIs
+
+## Databases
+
+- MongoDB
+- MySQL
+
+## Machine Learning & AI
+
+- Scikit-learn
+- XGBoost
+- LightGBM
+- SHAP
+- Pandas
+- NumPy
+
+## Tools & Deployment
+
+- Git
+- GitHub
+- Vercel
+- Render
+- Streamlit Cloud
+- Postman
+
+---
+
+# 📈 Coding Profile
+
+- Solved **450+ Data Structures & Algorithms** problems
+- Strong foundation in Algorithms, Data Structures, and Problem Solving
+
+🔗 LeetCode:
 https://leetcode.com/u/Aryans8604/
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-Led Delhi State Volleyball Team
-## 🏆 Achievements & Certifications
+- 🏐 Former Delhi State Volleyball Player
+- 📜 NPTEL Certified in Object-Oriented Programming
+- 📜 NPTEL Certified in Ethical Hacking
+- 🚀 Built and deployed multiple AI and Full-Stack applications
 
-## NPTEL Certified in Object-Oriented Programming (OOP)
-## NPTEL Certified in Ethical Hacking
-## Solved 450+ Data Structures & Algorithms problems across coding platforms
-## Built and deployed multiple Machine Learning and AI-based applications
+---
 
+# 📫 Connect With Me
+
+- GitHub: https://github.com/sharmaaryan8604
+- LinkedIn: https://www.linkedin.com/in/aryan-sharma-3a24b3258/
+- LeetCode: https://leetcode.com/u/Aryans8604/
