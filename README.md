@@ -1,101 +1,122 @@
-# Hi, I'm Aryan Sharma 👋
+[# Hi, I'm Aryan Sharma
 
-🎓 B.Tech in Electronics & Communication Engineering (Artificial Intelligence & Machine Learning) — NSUT  
-💻 Software Developer | Full-Stack Developer | Machine Learning Enthusiast  
-🚀 Passionate about building AI-powered applications, scalable web platforms, and solving real-world problems through technology.
+B.Tech in Electronics & Communication Engineering (Artificial Intelligence & Machine Learning) - NSUT  
+Software Developer | Full-Stack Developer | Machine Learning Enthusiast  
+Passionate about building AI-powered applications, scalable web platforms, and solving real-world problems through technology.
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 📚 StudyAI Hub (Featured)
+## Ping Message
+
+A modern full-stack real-time chat application focused on fast messaging, media sharing, and a polished customizable user experience.
+
+### Project Details
+
+- Clerk-based authentication with backend user sync
+- Real-time messaging using Socket.IO
+- Online user presence tracking
+- One-to-one conversations with message history
+- Image and video message upload support
+- ImageKit-powered chat media delivery
+- Custom wallpapers and theme presets
+- Responsive chat UI with protected routes
+
+### Tech Stack
+
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Clerk` `ImageKit` `Tailwind CSS` `HeroUI` `Zustand`
+
+---
+
+## StudyAI Hub
 
 An AI-powered study platform that helps students upload study material, generate AI summaries, create quizzes, and manage notes efficiently.
 
 ### Features
 
-- 🔐 JWT Authentication
-- 📄 PDF Upload & Automatic Text Extraction
-- 📝 Notes Management (CRUD)
-- 🧠 AI-Powered Summary Generation using Google Gemini
-- 🎯 AI Quiz Generator with Difficulty Levels
-- 📚 Search & Categorize Notes
-- 📱 Responsive UI
-- ☁️ Deployed on Vercel & Render
+- JWT Authentication
+- PDF Upload and Automatic Text Extraction
+- Notes Management (CRUD)
+- AI-Powered Summary Generation using Google Gemini
+- AI Quiz Generator with Difficulty Levels
+- Search and Categorize Notes
+- Responsive UI
+- Deployed on Vercel and Render
 
 ### Tech Stack
 
 `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Google Gemini AI` `JWT` `Multer`
 
-🔗 Live Demo: https://study-ai-hub-psi.vercel.app/
+Live Demo: https://study-ai-hub-psi.vercel.app/
 
-🔗 GitHub: https://github.com/sharmaaryan8604/studyAIHub
+GitHub: https://github.com/sharmaaryan8604/studyAIHub
 
 ---
 
-## 🏏 Explainable IPL Win Probability Engine
+## Explainable IPL Win Probability Engine
 
 AI-powered cricket analytics platform predicting IPL match win probability using Machine Learning and Explainable AI.
 
 ### Features
 
-- Real-time Win Probability Prediction
-- Ball-by-Ball Match Replay
-- Momentum Shift Analysis
-- SHAP Explainability
-- Interactive Plotly Dashboard
+- Real-time win probability prediction
+- Ball-by-ball match replay
+- Momentum shift analysis
+- SHAP explainability
+- Interactive Plotly dashboard
 
 ### Tech Stack
 
 `Python` `XGBoost` `SHAP` `Streamlit` `Plotly` `Scikit-learn`
 
-🔗 Live Demo: https://cricket-ai-analytics.streamlit.app/
+Live Demo: https://cricket-ai-analytics.streamlit.app/
 
-🔗 GitHub: https://github.com/sharmaaryan8604/cricket-ai-analytics
+GitHub: https://github.com/sharmaaryan8604/cricket-ai-analytics
 
 ---
 
-## 🏐 Volleyball Attack Prediction System
+## Volleyball Attack Prediction System
 
 Hybrid AI system for predicting volleyball attack landing zones using spatial machine learning and probabilistic modeling.
 
 ### Features
 
-- 25-Class Landing Zone Prediction
-- XGBoost + LightGBM Ensemble
-- Markov Chain Prediction
-- Monte Carlo Simulation
-- FastAPI Backend
-- React Frontend
+- 25-class landing zone prediction
+- XGBoost + LightGBM ensemble
+- Markov chain prediction
+- Monte Carlo simulation
+- FastAPI backend
+- React frontend
 
 ### Tech Stack
 
 `Python` `XGBoost` `LightGBM` `FastAPI` `React`
 
-🔗 GitHub: https://github.com/sharmaaryan8604/volleyball_AI
+GitHub: https://github.com/sharmaaryan8604/volleyball_AI
 
 ---
 
-## 📦 Quick Commerce Delivery Time Predictor
+## Quick Commerce Delivery Time Predictor
 
-Machine Learning pipeline for predicting delivery time across multiple cities.
+Machine learning pipeline for predicting delivery time across multiple cities.
 
 ### Features
 
-- Delivery Time Prediction
-- Feature Engineering
-- Ensemble Regression Models
-- Interactive Dashboard
+- Delivery time prediction
+- Feature engineering
+- Ensemble regression models
+- Interactive dashboard
 
 ### Tech Stack
 
 `Python` `Scikit-learn` `React` `FastAPI`
 
-🔗 GitHub: https://github.com/sharmaaryan8604/quick_commerce_delivery_time_prediction
+GitHub: https://github.com/sharmaaryan8604/quick_commerce_delivery_time_prediction
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ## Languages
 
@@ -123,7 +144,7 @@ Machine Learning pipeline for predicting delivery time across multiple cities.
 - MongoDB
 - MySQL
 
-## Machine Learning & AI
+## Machine Learning and AI
 
 - Scikit-learn
 - XGBoost
@@ -132,7 +153,7 @@ Machine Learning pipeline for predicting delivery time across multiple cities.
 - Pandas
 - NumPy
 
-## Tools & Deployment
+## Tools and Deployment
 
 - Git
 - GitHub
@@ -143,27 +164,27 @@ Machine Learning pipeline for predicting delivery time across multiple cities.
 
 ---
 
-# 📈 Coding Profile
+# Coding Profile
 
-- Solved **600+ Data Structures & Algorithms** problems
-- Strong foundation in Algorithms, Data Structures, and Problem Solving
+- Solved **600+ Data Structures and Algorithms** problems
+- Strong foundation in algorithms, data structures, and problem solving
 
-🔗 LeetCode:
+LeetCode:  
 https://leetcode.com/u/Aryans8604/
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
-- 🏐 Former Delhi State Volleyball Player
-- 📜 NPTEL Certified in Object-Oriented Programming
-- 📜 NPTEL Certified in Ethical Hacking
-- 🚀 Built and deployed multiple AI and Full-Stack applications
+- Former Delhi State Volleyball Player
+- NPTEL Certified in Object-Oriented Programming
+- NPTEL Certified in Ethical Hacking
+- Built and deployed multiple AI and full-stack applications
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 - GitHub: https://github.com/sharmaaryan8604
 - LinkedIn: https://www.linkedin.com/in/aryan-sharma-08062004-sde/
-- LeetCode: https://leetcode.com/u/Aryans8604/
+- LeetCode: https://leetcode.com/u/Aryans8604/](https://ping-message.onrender.com)
