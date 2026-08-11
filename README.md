@@ -174,17 +174,7 @@ I thrive at the intersection of **intelligent systems** and **great user experie
 | 💡 **600+ DSA Problems** | Strong problem-solving foundation on LeetCode |
 | 🚀 **Deployed Applications** | Multiple AI & full-stack apps live in production |
 
----
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sharmaaryan8604&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
