@@ -145,7 +145,7 @@ Machine Learning pipeline for predicting delivery time across multiple cities.
 
 # 📈 Coding Profile
 
-- Solved **450+ Data Structures & Algorithms** problems
+- Solved **600+ Data Structures & Algorithms** problems
 - Strong foundation in Algorithms, Data Structures, and Problem Solving
 
 🔗 LeetCode:
@@ -165,5 +165,5 @@ https://leetcode.com/u/Aryans8604/
 # 📫 Connect With Me
 
 - GitHub: https://github.com/sharmaaryan8604
-- LinkedIn: https://www.linkedin.com/in/aryan-sharma-3a24b3258/
+- LinkedIn: https://www.linkedin.com/in/aryan-sharma-08062004-sde/
 - LeetCode: https://leetcode.com/u/Aryans8604/
