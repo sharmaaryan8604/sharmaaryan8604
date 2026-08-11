@@ -164,9 +164,6 @@ I thrive at the intersection of **intelligent systems** and **great user experie
 
 ---
 
-
----
-
 ## 🏆 Achievements
 
 | 🏅 Achievement | Details |
@@ -176,16 +173,6 @@ I thrive at the intersection of **intelligent systems** and **great user experie
 | 🔐 **NPTEL Certified** | Ethical Hacking |
 | 💡 **600+ DSA Problems** | Strong problem-solving foundation on LeetCode |
 | 🚀 **Deployed Applications** | Multiple AI & full-stack apps live in production |
-
----
-
-## 🧩 LeetCode Progress
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Aryans8604?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Aryans8604/)
-
-</div>
 
 ---
 
