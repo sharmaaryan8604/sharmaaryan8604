@@ -25,7 +25,7 @@ const aryan = {
   ],
   location: "Delhi, India 🇮🇳",
   athlete: "Former Delhi State Volleyball Player 🏐",
-  dsa: "600+ problems solved on LeetCode",
+  dsa: "650+ problems solved on LeetCode",
   passions: [
     "Agentic AI systems",
     "Scalable web platforms",
