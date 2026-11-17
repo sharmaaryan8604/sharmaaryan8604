@@ -1,16 +1,12 @@
-<div align="center">
+ <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryan%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20ML%20Engineer&descAlignY=52&descAlign=50](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=180\&section=header\&text=Aryan%20Sharma\&fontSize=42\&fontColor=fff\&animation=twinkling\&fontAlignY=32\&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20ML%20Engineer\&descAlignY=52\&descAlign=50)" width="100%"/>
-
-<br/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aryan%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20ML%20Engineer&descAlignY=52&descAlign=50" width="100%" />
 
 <br/>
 
-
-
-
+<a href="https://github.com/sharmaaryan8604">
+  <img src="https://komarev.com/ghpvc/?username=sharmaaryan8604&label=Profile%20Views&color=blueviolet&style=flat" />
+</a>
 
 </div>
 
@@ -69,11 +65,17 @@ Off the keyboard, I bring the same pattern-recognition and strategic thinking fr
 
 ## 🚀 Featured Projects
 
-\<table> \<tr> \<td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 [Multi-Agent Research Assistant](https://github.com/sharmaaryan8604/multi-agent-research-assistant)
+### 🤖 Multi-Agent Research Assistant
 
-> Autonomous AI research system powered by multi-agent orchestration
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://researchai-aryan.streamlit.app/)
+
+[💻 GitHub Repository](https://github.com/sharmaaryan8604/multi-agent-research-assistant)
+
+> Autonomous AI research system powered by multi-agent orchestration.
 
 - 🔎 Automated web research using Tavily Search API
 - 📚 Extracts webpage content using Trafilatura
@@ -85,11 +87,14 @@ Off the keyboard, I bring the same pattern-recognition and strategic thinking fr
 
 **Stack:** `Python` `LangChain` `LangGraph` `Groq` `GPT-OSS-120B` `Tavily` `Trafilatura` `Streamlit`
 
-\</td> \<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 💬 [Ping Message](https://ping-message.onrender.com)
+### 💬 Ping Message
 
-> Real-time full-stack chat application
+[🚀 Live Application](https://ping-message.onrender.com)
+
+> Real-time full-stack chat application.
 
 - 🔐 Clerk authentication with backend sync
 - ⚡ Real-time messaging via **Socket.IO**
@@ -100,13 +105,17 @@ Off the keyboard, I bring the same pattern-recognition and strategic thinking fr
 
 **Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.IO` `Clerk` `Zustand` `Tailwind`
 
-\</td> \</tr>
+</td>
+</tr>
 
-\<tr> \<td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 📚 [StudyAI Hub](https://study-ai-hub-psi.vercel.app/)
+### 📚 StudyAI Hub
 
-> AI-powered study platform for students
+[🚀 Live Application](https://study-ai-hub-psi.vercel.app/)
+
+> AI-powered study platform for students.
 
 - 📄 PDF upload & automatic text extraction
 - 🤖 AI summaries via **Google Gemini**
@@ -117,11 +126,14 @@ Off the keyboard, I bring the same pattern-recognition and strategic thinking fr
 
 **Stack:** `React` `Node.js` `Express` `MongoDB` `Gemini AI` `JWT` `Tailwind`
 
-\</td> \<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 🏏 [IPL Win Probability Engine](https://cricket-ai-analytics.streamlit.app/)
+### 🏏 IPL Win Probability Engine
 
-> Explainable AI cricket analytics platform
+[🚀 Live Application](https://cricket-ai-analytics.streamlit.app/)
+
+> Explainable AI cricket analytics platform.
 
 - 📊 Ball-by-ball win probability prediction
 - 🔄 Momentum shift analysis
@@ -131,15 +143,17 @@ Off the keyboard, I bring the same pattern-recognition and strategic thinking fr
 
 **Stack:** `Python` `XGBoost` `SHAP` `Streamlit` `Plotly` `Scikit-learn`
 
-\</td>
-\</tr>
+</td>
+</tr>
 
-\<tr>
-\<td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 🏐 [Volleyball Attack Prediction](https://github.com/sharmaaryan8604/volleyball_AI)
+### 🏐 Volleyball Attack Prediction
 
-> Hybrid AI for spatial sports analytics
+[💻 GitHub Repository](https://github.com/sharmaaryan8604/volleyball_AI)
+
+> Hybrid AI for spatial sports analytics.
 
 - 🎯 25-class landing zone prediction
 - 🤝 XGBoost + LightGBM ensemble
@@ -149,12 +163,14 @@ Off the keyboard, I bring the same pattern-recognition and strategic thinking fr
 
 **Stack:** `Python` `XGBoost` `LightGBM` `FastAPI` `React`
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 🚚 [Quick Commerce Delivery Predictor](https://github.com/sharmaaryan8604/quick_commerce_delivery_time_prediction)
+### 🚚 Quick Commerce Delivery Predictor
 
-> ML pipeline for multi-city delivery time prediction
+[💻 GitHub Repository](https://github.com/sharmaaryan8604/quick_commerce_delivery_time_prediction)
+
+> ML pipeline for multi-city delivery time prediction.
 
 - 🏙️ Cross-city delivery time estimation
 - ⚙️ Feature engineering pipeline
@@ -163,96 +179,102 @@ Off the keyboard, I bring the same pattern-recognition and strategic thinking fr
 
 **Stack:** `Python` `Scikit-learn` `XGBoost` `Pandas` `NumPy`
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-\<div align="center">
+<div align="center">
 
 ### Languages
 
-
-
-\
-
+<img src="https://skillicons.dev/icons?i=cpp,python,js,sql" />
 
 ### Frontend
 
-
-
-\
-
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 
 ### Backend
 
-
-
-\
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
 ### Databases
 
-\
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 
 ### Machine Learning & AI
 
-
-
-
-
-\
-
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
 
 ### Agentic AI & LLMs
 
-
-
-\
-
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/Tavily-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 ### Tools & Deployment
 
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,vscode" />
 
+</div>
 
+---
 
-\
+## 📊 GitHub Statistics
 
+<div align="center">
 
-\</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharmaaryan8604&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaaryan8604&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaaryan8604&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-| 🏅 Achievement               | Details                                               |
-| ---------------------------- | ----------------------------------------------------- |
-| 🏐 **Delhi State Athlete**   | Former Delhi State Volleyball Player                  |
-| 💡 **600+ DSA Problems**     | Problem-solving experience on LeetCode                |
-| 🏆 **LeetCode Rating**       | Peak Contest Rating: **1738** — Top 12%               |
-| 🚀 **Deployed Applications** | Multiple AI & full-stack applications                 |
-| 💼 **Industry Experience**   | Full Stack Engineer Intern at Diginfo Expert Services |
+| 🏅 Achievement | Details |
+|---|---|
+| 🏐 **Delhi State Athlete** | Former Delhi State Volleyball Player |
+| 💡 **750+ DSA Problems** | Problem-solving experience on LeetCode |
+| 🏆 **LeetCode Rating** | Peak Contest Rating: **1738** — Top 12% |
+| 🚀 **Deployed Applications** | Multiple AI & full-stack applications |
+| 💼 **Industry Experience** | Full Stack Engineer Intern at Diginfo Expert Services |
 
 ---
 
 ## 🤝 Let's Connect
 
-\<div align="center">
+<div align="center">
 
 I'm always open to collaborating on interesting projects, discussing AI/ML ideas, or connecting with fellow developers and builders.
 
+<br/>
 
-\
+<a href="https://www.linkedin.com/in/aryan-sharma-08062004-sde/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/sharmaaryan8604">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+<a href="https://leetcode.com/u/Aryans8604/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+<a href="mailto:Sharma.aryan8604@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
-
-\<br/>
+<br/><br/>
 
 *"The best predictions come from understanding the game — whether it's cricket, volleyball, or software."*
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=100\&section=footer)" width="100%"/>
+</div>
 
-\</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
